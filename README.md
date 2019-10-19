@@ -2,7 +2,7 @@
 moer777 的个人博客
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
+<h4 align="center">记录精彩的创新型宝宝养殖技术指南</h4>
 <p align="center"><a title="moer777 的个人博客" target="_blank" href="https://github.com/moer777/solo-blog"><img src="https://img.shields.io/github/last-commit/moer777/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/moer777/solo-blog"><img src="https://img.shields.io/github/repo-size/moer777/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
